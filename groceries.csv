@@ -1,1 +1,23 @@
-Date,Brand,Item,Quantity,Unit,Price,Total Price,Tags,Zip Code,Store,Store Number1/14/15,Chobani,Yogurt,2,,$1.59 ,$3.18 ,,47401,Kroger,21009281/14/15,Nabisco,Triscuits,1,,$2.77 ,$2.77 ,,47401,Kroger,21009281/14/15,,NPTH BAR,1,,$3.99 ,$3.99 ,,47401,Kroger,21009281/14/15,Kroger,Half&Half,1,,$1.99 ,$1.99 ,,47401,Kroger,21009281/14/15,Ben and Jerry's,Ice Cream,1,pint,$3.48 ,$3.48 ,,47401,Kroger,21009281/14/15,Ore Ida,Tater Tots,1,,$2.99 ,$2.99 ,,47401,Kroger,21009281/14/15,CD,Ginger Ale,1,,$1.67 ,$1.67 ,,47401,Kroger,21009281/14/15,Simple Truth,Black Beans,2,15oz can,$1.00 ,$2.00 ,organic,47401,Kroger,21009281/14/15,Frontera,Enchilada Sauce,1,,$2.39 ,$2.39 ,,47401,Kroger,21009281/14/15,Fsel,Mushroom,1,,$1.99 ,$1.99 ,,47401,Kroger,21009281/14/15,ST,Salsa,1,,$2.50 ,$2.50 ,,47401,Kroger,21009281/14/15,Kroger,Almond Butter,1,,$7.99 ,$7.99 ,,47401,Kroger,21009281/14/15,Mrry,Olives,1,,$3.24 ,$3.24 ,,47401,Kroger,21009281/14/15,Frito-Lay,Cheetos Crunchy,1,,$3.49 ,$3.49 ,,47401,Kroger,21009281/14/15,Kroger,Potato Chips,1,,$1.99 ,$1.99 ,,47401,Kroger,21009281/14/15,Knudsen,"Juice, bottled",1,,$2.99 ,$2.99 ,,47401,Kroger,21009281/14/15,Jstn,"Almond Butter, Maple",1,,$1.19 ,$1.19 ,,47401,Kroger,21009281/14/15,Simple Truth,Dark Chocolate,1,,$2.50 ,$2.50 ,organic,47401,Kroger,21009281/14/15,Cliff,Mojo Bar,1,,$1.00 ,$1.00 ,,47401,Kroger,21009281/14/15,Simple Truth,Eggs,1,dozen,$3.19 ,$3.19 ,"cage-free, organic",47401,Kroger,21009281/14/15,,"Apples, Gala East",2,1,$0.50 ,$0.99 ,,47401,Kroger,2100928
+Date,Brand,Item,Quantity,Unit,Price,Total Price,Tags,Zip Code,Store,Store Number
+1/14/2015,Chobani,Yogurt,2,,$1.59 ,$3.18 ,,47401,Kroger,2100928
+1/14/2015,Nabisco,Triscuits,1,,$2.77 ,$2.77 ,,47401,Kroger,2100928
+1/14/2015,,NPTH BAR,1,,$3.99 ,$3.99 ,,47401,Kroger,2100928
+1/14/2015,Kroger,Half&Half,1,,$1.99 ,$1.99 ,,47401,Kroger,2100928
+1/14/2015,Ben and Jerry's,Ice Cream,1,pint,$3.48 ,$3.48 ,,47401,Kroger,2100928
+1/14/2015,Ore Ida,Tater Tots,1,,$2.99 ,$2.99 ,,47401,Kroger,2100928
+1/14/2015,CD,Ginger Ale,1,,$1.67 ,$1.67 ,,47401,Kroger,2100928
+1/14/2015,Simple Truth,Black Beans,2,15oz can,$1.00 ,$2.00 ,organic,47401,Kroger,2100928
+1/14/2015,Frontera,Enchilada Sauce,1,,$2.39 ,$2.39 ,,47401,Kroger,2100928
+1/14/2015,Fsel,Mushroom,1,,$1.99 ,$1.99 ,,47401,Kroger,2100928
+1/14/2015,ST,Salsa,1,,$2.50 ,$2.50 ,,47401,Kroger,2100928
+1/14/2015,Kroger,Almond Butter,1,,$7.99 ,$7.99 ,,47401,Kroger,2100928
+1/14/2015,Mrry,Olives,1,,$3.24 ,$3.24 ,,47401,Kroger,2100928
+1/14/2015,Frito-Lay,Cheetos Crunchy,1,,$3.49 ,$3.49 ,,47401,Kroger,2100928
+1/14/2015,Kroger,Potato Chips,1,,$1.99 ,$1.99 ,,47401,Kroger,2100928
+1/14/2015,Knudsen,"Juice, bottled",1,,$2.99 ,$2.99 ,,47401,Kroger,2100928
+1/14/2015,Jstn,"Almond Butter, Maple",1,,$1.19 ,$1.19 ,,47401,Kroger,2100928
+1/14/2015,Simple Truth,Dark Chocolate,1,,$2.50 ,$2.50 ,organic,47401,Kroger,2100928
+1/14/2015,Cliff,Mojo Bar,1,,$1.00 ,$1.00 ,,47401,Kroger,2100928
+1/14/2015,Simple Truth,Eggs,1,dozen,$3.19 ,$3.19 ,"cage-free, organic",47401,Kroger,2100928
+1/14/2015,,"Apples, Gala East",2,1,$0.50 ,$0.99 ,,47401,Kroger,2100928
+blah,,,,,,,,,,
